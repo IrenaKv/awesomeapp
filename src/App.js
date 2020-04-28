@@ -16,8 +16,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
         </a>
+        <h1>Hello World!</h1>
+        <p>I think React is going to be a loads of fun!</p>
+        <p><h3>I wonder how I can change colour, is that inside the css file?</h3></p>
       </header>
     </div>
   );
